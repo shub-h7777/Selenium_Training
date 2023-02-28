@@ -1,0 +1,18 @@
+1677568192698	geckodriver	INFO	Listening on 127.0.0.1:61540
+1677568195781	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61541" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\150286\\AppData\\Local\\Temp\\5\\rust_mozprofilekwosZW"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677568196331	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677568196340	Marionette	INFO	Listening on port 61551
+WebDriver BiDi listening on ws://127.0.0.1:61541
+Read port: 61551
+1677568196610	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\150286\\AppData\\Local\\Temp\\5\\rust_mozprofilekwosZW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61541/devtools/browser/6fccc29e-5463-430b-a727-472d3b53616d
+JavaScript warning: https://www.oracle.com/asset/web/js/web-sdk.js, line 5: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.oracle.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.oracle.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.oracle.com."
+1677568226482	Marionette	INFO	Stopped listening on port 61551
+Dynamically enable window occlusion 1
